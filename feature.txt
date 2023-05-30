@@ -2,3 +2,5 @@ CodifyLab
 Js
 HTML
 CSS
+Python with Django
+It's so hard
